@@ -1,3 +1,0 @@
-link: http://xtips.ru/?act=tview&tid=130
-desc: Удаление всех пустых строк в VIM
-code: :g/^$/d

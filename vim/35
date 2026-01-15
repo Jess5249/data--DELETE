@@ -1,4 +1,0 @@
-link: http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim
-desc: отправить текущий файл на исполнение питоном
-code: |
-  :!python %

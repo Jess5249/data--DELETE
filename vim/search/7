@@ -1,4 +1,0 @@
-link: http://www.rayninfo.co.uk/vimtips.html
-desc: Искать одно из двух слов
-code: |
-   /fred\|joe 

@@ -1,4 +1,0 @@
-link: http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim
-desc: Изменить регистр символа под курсором на противоположный
-html:
-  <kbd>~</kbd>
