@@ -1,4 +1,0 @@
-link: http://anton.shevchuk.name/javascript/jquery-for-beginners-selectors/
-desc: Выбор элементов с активной анимацией
-code: |
-  $('div:animated'); 

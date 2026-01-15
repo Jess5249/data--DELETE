@@ -1,4 +1,0 @@
-link: http://anton.shevchuk.name/javascript/jquery-for-beginners-selectors/
-desc: Сделать выделенным первый пункт списка
-code: |
-  $('select[@name=loadFileName] option:first').attr('selected', 'yes');

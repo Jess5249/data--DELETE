@@ -1,4 +1,0 @@
-link: http://anton.shevchuk.name/javascript/jquery-for-beginners-selectors/
-desc: Выбрать div'ы, у которых нет класса red
-code: |
-  $('div:not(.red)');

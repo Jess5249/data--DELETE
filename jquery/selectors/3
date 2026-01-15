@@ -1,6 +1,0 @@
-link: http://anton.shevchuk.name/javascript/jquery-for-beginners-selectors/
-desc: |
-  Выбор всех span элементов в элементах div,
-  где span является прямым потомком div
-code: |
-  $('div, span');

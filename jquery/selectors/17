@@ -1,4 +1,0 @@
-link: http://anton.shevchuk.name/javascript/jquery-for-beginners-selectors/
-desc: Выбор заголовков H1, H2, H3 и т.д.
-code: |
-  $(':header');  
