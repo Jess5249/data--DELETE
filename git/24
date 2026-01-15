@@ -1,5 +1,0 @@
-link: http://habrahabr.ru/blogs/Git/60347/
-desc: |
-  Взять коммит с номером 7496f529 и применить его к текущей ветке
-code: |
-   $ git cherry-pick 7496f529

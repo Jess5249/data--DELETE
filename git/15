@@ -1,5 +1,0 @@
-link: http://habrahabr.ru/blogs/Git/60347/
-desc: |
-  Удалить из папки документации к git все файлы txt
-code: |
-  $ git rm Documentation/\*.txt

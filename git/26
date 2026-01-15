@@ -1,4 +1,0 @@
-link: http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/ch05.html
-desc: Изменить сообщение в предыдущем коммите
-code: |
-   $ git commit --amend

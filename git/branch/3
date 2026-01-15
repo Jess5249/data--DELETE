@@ -1,4 +1,0 @@
-link: http://habrahabr.ru/blogs/Git/60347/
-desc: Удалить ветку new_branch в любом случае
-code: |
-  $ git branch -D new_branch

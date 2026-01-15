@@ -1,4 +1,0 @@
-link: http://wiki.etersoft.ru/UsesGit
-desc: Сообщить, что в версии wine-1.1.1 ошибка есть
-code: |
-  $ git bisect bad wine-1.1.1

@@ -1,4 +1,0 @@
-link: http://cheat.errtheblog.com/s/git
-desc: Удалить ветку в удалённом репозитории
-code: |
-  $ git push <repository> :<branch>

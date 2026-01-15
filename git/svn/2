@@ -1,5 +1,0 @@
-link: http://stasikos.blogspot.com/2010/08/git-svn.html
-desc: |
-   Отправить изменения в svn из git-репозитория.
-code: |
-   $ git svn dcommit

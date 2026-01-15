@@ -1,5 +1,0 @@
-link: http://www.calculate-linux.ru/main/ru/git
-desc: |
-  Отправить в репозиторий origin все тэги, вместе с веткой master
-code: |
-  $ git push origin master --tags

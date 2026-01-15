@@ -1,4 +1,0 @@
-link: http://habrahabr.ru/blogs/Git/60347/
-desc: Попробовать объединить текущую ветку с веткой new_feature
-code: |
-  $ git merge new_feature

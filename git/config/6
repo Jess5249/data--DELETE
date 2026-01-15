@@ -1,4 +1,0 @@
-link: http://blog.nsws.ru/rabota-s-git-dlya-nachinayushhix.html
-desc: Ускорить диффы
-code: |
-  $ git config --global diff.renamelimit "0"
