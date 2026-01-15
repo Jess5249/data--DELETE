@@ -1,5 +1,0 @@
-link: http://www.jasny.net/?p=84
-ft: ruby
-desc: Получить расширение файла
-code: |
-  ext = File.extname(file_name)

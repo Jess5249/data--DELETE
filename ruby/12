@@ -1,5 +1,0 @@
-desc: Определяем функцию для определения функций =_+
-code: |
-  def deff name, &block
-        self.class.send(:define_method, name, &block)
-  end

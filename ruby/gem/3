@@ -1,4 +1,0 @@
-link: gem help examples 
-desc: Установить гем определённой версии
-code: |
-  $ gem install rake --version 0.3.1

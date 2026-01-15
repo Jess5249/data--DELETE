@@ -1,7 +1,0 @@
-ft: ruby
-desc: Получить код ответа http сервера 
-code: |
-  require 'net/http'
-  puts Net::HTTP.get_response('najomi.org', '/404.html').code
-out: |
-  404

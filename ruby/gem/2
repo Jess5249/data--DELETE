@@ -1,4 +1,0 @@
-link: gem help examples 
-desc: Поискать в интернетах гемы, что содержат в имени слово log
-code: |
-  $ gem search log --remote

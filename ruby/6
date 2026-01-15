@@ -1,3 +1,0 @@
-desc: Если session[:cart] не задан - установить значение по умолчанию
-code: |
-  session[:cart] ||= default

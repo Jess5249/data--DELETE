@@ -1,5 +1,0 @@
-desc: Построчно обойти файл ls.txt 
-code: |
-  File.open("ls.txt").each do |line|
-    puts line 
-  end
