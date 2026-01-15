@@ -1,9 +1,0 @@
-desc: Экранировать кавычки в строке 
-code: |
-  <?php
-  foreach(array("'", '"', chr(0)) as $v)
-      echo addslashes($v)."\n";
-out: |
-  \'
-  \"
-  \0

@@ -1,7 +1,0 @@
-desc: |
-  Получение времени в секундах с момента последнего изменения файла
-code: |
-  function get_file_age($pth){
-    return time() - filemtime($pth);
-  }
-author: Mihanentalpo

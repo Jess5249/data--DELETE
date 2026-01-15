@@ -1,4 +1,0 @@
-desc: Скрываем факт использования php
-code: |
-  expose_php = Off
-  session.name = LISPSESSID

@@ -1,4 +1,0 @@
-desc: Изменяем значения в массиве
-code: |
-  foreach($orig as &$v)  
-    $v = trim($v);

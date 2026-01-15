@@ -1,7 +1,0 @@
-link: http://php.net/fileperms
-desc: Посмотреть права на файл
-code: |
-  <?php
-  echo substr(sprintf('%o', fileperms('/etc/passwd')), -4);
-out: |
-  0644
