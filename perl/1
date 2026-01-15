@@ -1,5 +1,0 @@
-link: http://www.jasny.net/?p=84
-ft: perl
-desc: Получить расширение файла
-code: |
-  my $ext = ($file_name =~ m/([^.]+)$/)[0];
