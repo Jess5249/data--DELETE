@@ -1,3 +1,0 @@
-desc: Запретить просмотр содержимого директории в apache
-code: |
-  Options -Indexes
