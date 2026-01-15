@@ -1,4 +1,0 @@
-ft: lisp 
-desc: Итеративно инспектировать объект
-code: |
-  (inspect #'foo)

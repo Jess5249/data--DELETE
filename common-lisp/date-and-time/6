@@ -1,4 +1,0 @@
-link: http://cl-cookbook.sourceforge.net/dates_and_times.html
-desc: Остановить выполнение функции на 3 секунды
-code: |
-  (sleep 3)

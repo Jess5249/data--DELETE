@@ -1,5 +1,0 @@
-link: http://cl-cookbook.sourceforge.net/strings.html
-desc: Каждое слово в строке сделать с заглавной буквы
-code: |
-  (string-capitalize "cool example")
-  ; "Cool Example"
