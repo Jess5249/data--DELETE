@@ -1,3 +1,0 @@
-desc: Очистка кэша DNS
-code: |
-  $ dscacheutil -flushcache; sudo killall -HUP mDNSResponder
