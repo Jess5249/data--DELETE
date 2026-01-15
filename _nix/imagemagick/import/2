@@ -1,4 +1,0 @@
-ft: bash
-desc: Сделать скриншот части экрана
-code: |
-  $ import screenshot.png

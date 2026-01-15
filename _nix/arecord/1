@@ -1,3 +1,0 @@
-desc: Записать звуки с микрофона в файл
-code: |
-  $ arecord file.wav

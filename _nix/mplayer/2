@@ -1,6 +1,0 @@
-link: http://xtips.ru/?act=tview&tid=32
-desc: |
-  Заставляем mplayer закэшировать часть данных в оперативной памяти.
-  Размер указывается в килобайтах.
-code: |
-  $ mplayer -cache 104857 movie.avi

@@ -1,5 +1,0 @@
-desc: Удалить определённые символы из потока ввода
-code: |
-  $ echo Hello, World! | tr --delete 'od '
-out: |
-  Hell,Wrl!

@@ -1,3 +1,0 @@
-desc: Подгружаем субтитры к видео
-code: |
-  $ mplayer -sub sub/video.avi.srt video.avi

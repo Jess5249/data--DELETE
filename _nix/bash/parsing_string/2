@@ -1,7 +1,0 @@
-link: http://user.su/index.php/Bash:Основы
-desc: Извлекаем подстроку из строки
-code: |
-  $ string=foobarbaz
-  $ echo ${string:3}               
-out: |
-  barbaz

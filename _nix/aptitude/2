@@ -1,5 +1,0 @@
-ft: bash
-desc: Список установленных ВРУЧНУЮ пакетов в дебиане
-code: |
-  $ aptitude search '!~M!~prequired~i'
-

@@ -1,4 +1,0 @@
-desc: Распечатать pdf файл из консоли
-code: |
-  $ lpr file.pdf
-

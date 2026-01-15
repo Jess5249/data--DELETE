@@ -1,4 +1,0 @@
-link: http://xtips.ru/?act=tview&tid=39
-desc: Конвертация bin в iso
-code: |
-  $ bchunk imagefile.bin imagefile.iso

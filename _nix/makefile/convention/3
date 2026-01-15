@@ -1,3 +1,0 @@
-link: http://www.wlug.org.nz/MakeFile
-desc: Установить платформо-зависимые файлы
-code: $ make install-exec

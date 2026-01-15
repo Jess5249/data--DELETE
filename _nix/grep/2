@@ -1,5 +1,0 @@
-desc: |
-  Отфильтровать строки без учёта регистра,
-  содержащие одно из слов one, two, three:
-code: |
-  $ cat file | grep -iE "(one|two|three)"

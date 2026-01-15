@@ -1,5 +1,0 @@
-link: http://user.su/index.php/Bash:Основы
-desc: Находит и извлекает первое совпадение $substring в $string
-code: |
-  expr match "$string" '\($regsubstring\)'
-  expr "$string" : '\($substring\)

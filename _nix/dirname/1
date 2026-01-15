@@ -1,5 +1,0 @@
-ft: bash
-desc: Пример простой:
-code: |
-  $ dirname /usr/bin/module-assistant
-  /usr/bin

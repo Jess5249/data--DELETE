@@ -1,4 +1,0 @@
-ft: bash
-desc: Убить процесс по части его имени
-code: |
-  $ pkill refox

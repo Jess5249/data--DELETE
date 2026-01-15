@@ -1,3 +1,0 @@
-link: http://www.wlug.org.nz/MakeFile
-desc: Запустить тесты
-code: $ make check

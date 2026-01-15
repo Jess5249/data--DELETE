@@ -1,3 +1,0 @@
-link: http://www.wlug.org.nz/MakeFile
-desc: Удалить
-code: $ make uninstall

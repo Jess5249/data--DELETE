@@ -1,4 +1,0 @@
-desc: Выводит строки в обратном порядке
-code: |
-  $ cat /etc/passwd
-  $ tac /etc/passwd

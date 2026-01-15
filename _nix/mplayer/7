@@ -1,4 +1,0 @@
-desc: составить и проиграть плэйлист
-code: |
-  $ ls *.avi > playlist.txt
-  $ mplayer -playlist playlist.txt

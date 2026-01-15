@@ -1,4 +1,0 @@
-link: http://stackoverflow.com/questions/211378/hidden-features-of-bash
-desc: Вызывать команды из команд.
-code: |
-  $ hostname && dig +short $(hostname) && dig +short -x $(dig +short $(hostname))

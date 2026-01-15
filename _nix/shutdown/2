@@ -1,3 +1,0 @@
-desc: Перезагрузить компьютер.
-code: |
-  # shutdown -r now

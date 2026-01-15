@@ -1,4 +1,0 @@
-desc: |
-  Проигрывать клипы по кругу, фулскрин и без дрожания при смене файла
-code: |
-  $ mplayer -loop 0 -fs -fixed-vo /home/shared/video/clips/*

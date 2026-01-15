@@ -1,4 +1,0 @@
-link: http://user.su/index.php/Bash:Основы
-desc: Поиск по шаблону всех, ранее объявленных переменных, имена которых начинаются с varprefix
-code: |
-  ${!varprefix*}, ${!varprefix@}

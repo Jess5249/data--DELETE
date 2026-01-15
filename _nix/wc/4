@@ -1,4 +1,0 @@
-link: http://en.wikipedia.org/wiki/Wc_(Unix)
-desc: Выдать длинну самой длинной строки
-code: |
-  $ wc -L <filename> 

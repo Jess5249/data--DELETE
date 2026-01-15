@@ -1,6 +1,0 @@
-link: http://www.cyberciti.biz/faq/bash-for-loop/
-code: |
-  for i in {1..5}
-  do
-  	echo "Welcome $i times"
-  done

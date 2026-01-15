@@ -1,3 +1,0 @@
-desc: Подключиться по ssh к серверу с другой кодировкой
-code: |
-  alias ssh_koi8='luit -encoding "KOI8-R" ssh'

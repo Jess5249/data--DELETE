@@ -1,3 +1,0 @@
-desc: Выбор локали 
-code: |
-  # dpkg-reconfigure locales

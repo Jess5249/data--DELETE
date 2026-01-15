@@ -1,4 +1,0 @@
-link: http://en.wikipedia.org/wiki/Wc_(Unix)
-desc: Выдать колличество линий
-code: |
-  $ wc -l <filename> 

@@ -1,4 +1,0 @@
-link: http://xtips.ru/?act=tview&tid=99
-desc: Список всех установленных пакетов в Debian/Ubuntu
-code: |
-  # dpkg --get-selections

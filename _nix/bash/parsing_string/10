@@ -1,4 +1,0 @@
-link: http://user.su/index.php/Bash:Основы
-desc: Удаление самой короткой, из найденых, подстроки $substring в строке $string
-code: |
-  ${string#regsubstring}

@@ -1,4 +1,0 @@
-desc: Войти с другим шеллом в пользователя
-code: |
-  $ su -s /bin/bash waserd
-

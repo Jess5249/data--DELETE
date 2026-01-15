@@ -1,4 +1,0 @@
-link: http://how-to.wikia.com/wiki/How_to_increase_MPlayer_volume_above_sound_cards_maximum_volume
-desc: Увеличить максимальную громкость в 2 раза
-code: |
-  $ mplayer -softvol -softvol-max 200 media.avi

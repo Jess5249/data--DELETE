@@ -1,6 +1,0 @@
-link: http://user.su/index.php/Bash:Основы
-code: |
-  until [ condition ]
-  do
-     ...
-  done

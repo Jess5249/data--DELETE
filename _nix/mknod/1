@@ -1,4 +1,0 @@
-link: http://xtips.ru/?act=tview&tid=15
-desc: FreeBSD восстановлиаем /dev/null 
-code: |
-  # mknod /dev/null c 1 3

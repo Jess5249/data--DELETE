@@ -1,3 +1,0 @@
-desc: Подавляем stdout и stderr
-code: |
-  $ ls /ololo /etc/ &> /dev/null

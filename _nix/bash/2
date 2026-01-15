@@ -1,7 +1,0 @@
-link: http://stackoverflow.com/questions/211378/hidden-features-of-bash
-desc: Добавить параметры предыдущей команды
-code: |
-  $ ls /var/cache/
-  fontconfig  hald  ldconfig  man  pacman
-  $ cd <Alt+.>
-  $ cd /var/cache

@@ -1,6 +1,0 @@
-link: http://stackoverflow.com/questions/211378/hidden-features-of-bash
-desc: Дробные числа при делении
-code: |
-  $ echo "scale=4; 10 / 3" | bc
-out: |
-  3.3333

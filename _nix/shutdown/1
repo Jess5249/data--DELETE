@@ -1,3 +1,0 @@
-desc: Выключить компьютер.
-code: |
-  # shutdown -h now

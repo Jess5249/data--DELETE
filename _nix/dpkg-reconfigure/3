@@ -1,3 +1,0 @@
-desc: Выбор часового пояся 
-code: |
-  # dpkg-reconfigure tzdata

@@ -1,4 +1,0 @@
-ft: bash
-desc: Сконвертировать .doc файл в .txt
-code: |
-  $ antiword report.doc > report.txt

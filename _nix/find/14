@@ -1,4 +1,0 @@
-link: http://www.cyberciti.biz/faq/find-command-exclude-ignore-files/
-desc: Найти все скрытые файлы
-code: |
-  $ find . -type f -iname ".*" 

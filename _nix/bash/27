@@ -1,5 +1,0 @@
-link: http://stackoverflow.com/questions/211378/hidden-features-of-bash
-desc: Развернуть переменные и алиасы 
-code: |
-  $ ls $HOME/tmp <Ctrl Alt + e>
-  $ ls -N --color=tty -T 0 /home/cramey

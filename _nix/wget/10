@@ -1,4 +1,0 @@
-link: http://ru.wikipedia.org/wiki/Wget
-desc: Скопировать весь сайт целиком:
-code: |
-  $ wget -r -l 0 -k http://example.org/

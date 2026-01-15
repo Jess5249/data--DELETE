@@ -1,4 +1,0 @@
-link: http://wiki.archlinux.org/index.php/Pacman
-desc: Только скачать пакет
-code: |
-  # pacman -Sw package

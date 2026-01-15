@@ -1,3 +1,0 @@
-desc: Установить кодировку субтитров
-code: |
-  $ mplayer -subcp cp1251 video.avi 

@@ -1,4 +1,0 @@
-link: http://xtips.ru/?act=tview&tid=46
-desc: Создаем образ диска:
-code: |
-  # dd bs=1k if=/dev/hda1 conv=sync,noerror,notrunc of=hda1.img

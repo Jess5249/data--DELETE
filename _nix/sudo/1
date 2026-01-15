@@ -1,4 +1,0 @@
-link: http://xtips.ru/?act=tview&tid=55
-desc: Запустить последнюю команду с привелегиями root'а
-code: |
-  $ sudo !!

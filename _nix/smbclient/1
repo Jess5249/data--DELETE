@@ -1,4 +1,0 @@
-link: http://xtips.ru/?act=tview&tid=52
-desc: Отправка сообщения windows-компьютеру
-code: |
-  $ echo "message" | smbclient -M имя_компьютера
