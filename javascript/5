@@ -1,3 +1,0 @@
-desc: Перенаправить пользователя на другую страницу
-code: |
-  window.location = 'http://ya.ru'

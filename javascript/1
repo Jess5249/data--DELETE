@@ -1,3 +1,0 @@
-desc: Значение по умолчанию в javascript
-code: |
-  this.timeout = p.timeout || 5000
