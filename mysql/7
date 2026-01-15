@@ -1,3 +1,0 @@
-desc: Добавляем столбец в таблицу
-code: |
-   ALTER TABLE blog_comments ADD spam INT DEFAULT 0;

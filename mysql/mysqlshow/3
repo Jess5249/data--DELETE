@@ -1,4 +1,0 @@
-ft: bash
-desc: Посмотреть на структуру таблицы 'money' в базе данных 'lifer'
-code: |
-   $ mysqlshow lifer money 

@@ -1,4 +1,0 @@
-desc: |
-  Сменить кодировку базы данных
-code: |
-  alter database mydatabase charset=utf8;
