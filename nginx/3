@@ -1,8 +1,0 @@
-link: http://brainspl.at/nginx.conf.txt
-desc: |
-  Если существует файл system/maintenance.html - показать по всем запросам его
-code: |
-    if (-f $document_root/system/maintenance.html) {
-      rewrite  ^(.*)$  /system/maintenance.html last;
-      break;
-    }
