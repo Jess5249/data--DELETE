@@ -1,3 +1,0 @@
-desc: Переоткрыть файл в другой кодировке
-html: |
-  <kbd>C-x</kbd> <kbd>RET</kbd> <kbd>r</kbd> CHARSET

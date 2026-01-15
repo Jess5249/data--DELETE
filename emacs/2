@@ -1,4 +1,0 @@
-link: http://edivad.wordpress.com/2007/05/31/emacs-reload-a-file/
-desc: Переоткрыть текущий файл
-html: |
-  <kbd>C-x</kbd> <kbd>C-v</kbd> <kbd>RET</kbd>
